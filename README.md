@@ -6,4 +6,4 @@ When I am not decoding algorithms or crafting seamless interfaces, I indulge in 
 
 As I continue to grow in this dynamic field, I remain eager to collaborate, contribute, and create meaningful technology that resonates with both utility and ingenuity. Let's connect and build the future together! ✨
 ![Banner](https://github.com/JuliaZanevych/JuliaZanevych/assets/90958528/9f71c7ce-8a5a-400e-b814-9003f5fac9c6)
-)
+
