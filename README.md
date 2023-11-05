@@ -5,5 +5,5 @@ Currently, I am channeling my efforts into Machine Learning 🧠, where I aspire
 When I am not decoding algorithms or crafting seamless interfaces, I indulge in the realm of detective novels 🕵️‍♀️, immersing myself in the twists and turns of mystery and suspense. Additionally, I find solace in hiking 🥾🏞️, where the serenity of nature provides a refreshing contrast to the structured logic of code.
 
 As I continue to grow in this dynamic field, I remain eager to collaborate, contribute, and create meaningful technology that resonates with both utility and ingenuity. Let's connect and build the future together! ✨
-(![DALL·E 2023-11-05 18 26 48 - Design a professional GitHub profile banner for a Full Stack Developer named Julia Zanevych  The design should be modern and technology-themed, featur]![Banner](https://github.com/JuliaZanevych/JuliaZanevych/assets/90958528/9f71c7ce-8a5a-400e-b814-9003f5fac9c6)
+![Banner](https://github.com/JuliaZanevych/JuliaZanevych/assets/90958528/9f71c7ce-8a5a-400e-b814-9003f5fac9c6)
 )
